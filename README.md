@@ -58,7 +58,7 @@ The key functions provided by the OLMS system include:
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: Node.js
+- **Backend**: Php
 - **Database**: MySQL
 - **Security**: Secure authentication and encryption techniques
 
